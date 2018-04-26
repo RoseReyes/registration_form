@@ -1,0 +1,41 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+#wrapper {
+    height: 300px;
+    width:  310px;
+    margin: 0 auto;
+    border: 2px solid black;
+    padding: 5px;
+ }
+ .surveyformat {
+     padding: 5px;
+ }
+ label
+ {
+    width: 140px;
+    padding-left: 10px;
+    margin: 5px;
+    float: left;
+    text-align: left;
+ }
+ input, textarea {
+    padding: 0px;
+    float: right;
+}
+  
+ br{
+    clear: left;
+}
+hr {
+     width: 300px;
+     color: grey;
+    }
+.error
+ {
+     color: red;
+     font-size: 10px;
+ }
+ 
+
